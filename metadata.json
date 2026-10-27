@@ -1,0 +1,6 @@
+{
+  "name": "3D Dice Game - Trò Chơi Xúc Xắc 3D",
+  "description": "Trò chơi 3 viên xúc xắc 3D chân thực với chén úp xóc xúc xắc, thống kê Tài Xỉu và lịch sử chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
